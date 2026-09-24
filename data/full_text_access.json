@@ -1,0 +1,1114 @@
+{
+  "schema_version": "1.0",
+  "prepared_on": "2026-09-24",
+  "source": {
+    "workbook": "literature_index_public_access.xlsx",
+    "worksheet": "Literature Index",
+    "sha256": "a69f9cc9f1702a1d6c7bd639bde72ea3f5dff2da81fb9e09e08dff9e7390f7d0",
+    "availability": "Author-supplied source workbook; this repository publishes the access-field extraction only."
+  },
+  "evidence_workbook_sha256": "6f16f8e49519f56ac250ce09c228ac0960ec8690bf482e51e68e40741bcdb432",
+  "scope": "Access metadata only. Does not replace the study evidence or reliability coding in evidence.xlsx.",
+  "status_counts": {
+    "Publicly accessible": 57,
+    "Not publicly accessible": 64
+  },
+  "limitations": [
+    "Access labels are transcribed, not independently rechecked on the preparation date.",
+    "Public reading access does not establish PDF redistribution permission.",
+    "A public author manuscript or preprint may differ from a publisher PDF.",
+    "The source notes report conflicting access metadata for EML-073.",
+    "No third-party article PDFs are distributed in this repository."
+  ],
+  "records": [
+    {
+      "study_id": "EML-001",
+      "citation": "Jafari et al. (2026). Designing flame retardants for epoxy resins with generative AI for preventing battery thermal runaway propagation. Journal of Materials Science & Technology. DOI: https://doi.org/10.1016/j.jmst.2026.03.044",
+      "article_or_access_link": "https://doi.org/10.1016/j.jmst.2026.03.044",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-002",
+      "citation": "Wang et al. (2026). Convolutional Neural Network-Based Constitutive Modeling and Parameter Identification for Aluminum/Epoxy Resin Composites. Polymer Composites. DOI: https://doi.org/10.1002/pc.70523",
+      "article_or_access_link": "https://doi.org/10.1002/pc.70523",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-003",
+      "citation": "Tuan Anh Nguyen et al. (2026). Artificial intelligence-assisted design of green-chemically treated banana fiber/epoxy composites for enhanced mechanical and fire-resistant performance. Polymer Bulletin. DOI: https://doi.org/10.1007/s00289-025-06106-6",
+      "article_or_access_link": "https://doi.org/10.1007/s00289-025-06106-6",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-004",
+      "citation": "Peiwen Yang et al. (2026). Strategy for synergistic strengthening, toughening and stiffening of M40X carbon fiber/epoxy composites with liquid crystalline epoxides: From ML-assisted design to experimental verification. Composites Part B: Engineering. DOI: https://doi.org/10.1016/j.compositesb.2026.113879",
+      "article_or_access_link": "https://doi.org/10.1016/j.compositesb.2026.113879",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-005",
+      "citation": "Zhang et al. (2026). Data-driven analysis of heterogeneity effects on carbon fiber/epoxy interfaces using molecular dynamics and machine learning. Composites Part B. DOI: https://doi.org/10.1016/j.compositesb.2026.113667",
+      "article_or_access_link": "https://doi.org/10.1016/j.compositesb.2026.113667",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-006",
+      "citation": "Abdellah et al. (2026). Data-Driven Design of Epoxy–Granite Machine Foundations: Bayesian Optimization for Enhanced Compressive Strength and Vibration Damping. Polymers. DOI: https://doi.org/10.3390/polym18040532",
+      "article_or_access_link": "https://doi.org/10.3390/polym18040532",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-007",
+      "citation": "Hasan et al. (2026). Machine Learning Assisted Prediction of Recovered Angle of Carbon Fiber Reinforced Shape Memory Epoxy Carbon Composites. Macromolecular Rapid Communications. DOI: https://doi.org/10.1002/marc.202500962",
+      "article_or_access_link": "https://doi.org/10.1002/marc.202500962",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-008",
+      "citation": "Pastukh et al. (2026). Data-Driven Design of Epoxy Composites: Heat Resistance Prediction Using Machine Learning Algorithms. Advances in Materials Science and Engineering. DOI: https://doi.org/10.1155/amse/6102430",
+      "article_or_access_link": "https://doi.org/10.1155/amse/6102430",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-009",
+      "citation": "Ansari Ardali et al. (2026). A novel hybrid epoxy adhesive with Nylon 6/Nano-alumina/MWCNT for aluminum-to-aluminum bonded joints: Thermomechanical analyses and ANN modeling. Colloids and Surfaces A: Physicochemical and Engineering Aspects. DOI: https://doi.org/10.1016/j.colsurfa.2025.138801",
+      "article_or_access_link": "https://doi.org/10.1016/j.colsurfa.2025.138801",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-010",
+      "citation": "Wenpeng Li et al. (2026). Data-driven predicting and optimizing electro-thermal properties for epoxy resin-based composites via an XGBoost hybrid model. Journal of Physics D: Applied Physics. DOI: https://doi.org/10.1088/1361-6463/ae4a39",
+      "article_or_access_link": "https://doi.org/10.1088/1361-6463/ae4a39",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-011",
+      "citation": "Krebs et al. (2025). Bayesian Optimization of flame-retardant performance in a high-Tg epoxy resin system. Computational Materials Science. DOI: https://doi.org/10.1016/j.commatsci.2025.114210",
+      "article_or_access_link": "https://doi.org/10.1016/j.commatsci.2025.114210",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-012",
+      "citation": "Mahmud et al. (2025). A Graph Neural Network based deep learning framework for predicting the thermomechanical behavior of thermoset shape memory polymers. Polymer. DOI: https://doi.org/10.1016/j.polymer.2025.128771",
+      "article_or_access_link": "https://doi.org/10.1016/j.polymer.2025.128771",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-013",
+      "citation": "Baral et al. (2025). Prediction of mechanical properties of carbon fiber/epoxy composite modified by nanoparticles using multiple explainable machine learning algorithms. Materials & Design. DOI: https://doi.org/10.1016/j.matdes.2025.114537",
+      "article_or_access_link": "https://doi.org/10.1016/j.matdes.2025.114537",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-014",
+      "citation": "Wang et al. (2025). Design of thermal conductivity of mercapto group-activated graphene/epoxy nanocomposites using the molecular dynamics simulation and Gaussian process regression-based Bayesian optimization. Surfaces and Interfaces. DOI: https://doi.org/10.1016/j.surfin.2024.105571",
+      "article_or_access_link": "https://doi.org/10.1016/j.surfin.2024.105571",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-015",
+      "citation": "Hariharasakthisudhan et al. (2025). Machine Learning-Guided Evolutionary Optimization of Compression Molding Parameters for Graphene-Enhanced Jute Fiber Composites. Fibers and Polymers. DOI: https://doi.org/10.1007/s12221-025-01011-1",
+      "article_or_access_link": "https://doi.org/10.1007/s12221-025-01011-1",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-016",
+      "citation": "Jayasinghe et al. (2025). AI-powered prediction of friction and wear in functionalized Epoxy-MWCNT composites. Wear. DOI: https://doi.org/10.1016/j.wear.2025.206333",
+      "article_or_access_link": "https://doi.org/10.1016/j.wear.2025.206333",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-017",
+      "citation": "Qi Wang et al. (2025). Machine learning-driven interfacial characterization and dielectric breakdown prediction in polymer nanocomposites. Composites Part B: Engineering. DOI: https://doi.org/10.1016/j.compositesb.2025.112226",
+      "article_or_access_link": "https://doi.org/10.1016/j.compositesb.2025.112226",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-018",
+      "citation": "Bahtiri et al. (2024). A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites. Computer Methods in Applied Mechanics and Engineering. DOI: https://doi.org/10.1016/j.cma.2024.117038",
+      "article_or_access_link": "https://doi.org/10.1016/j.cma.2024.117038",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-019",
+      "citation": "Si Zhang et al. (2024). Multiobjective optimization of carbon fiber–reinforced epoxy composite properties using nonparametric modeling. Materials & Design. DOI: https://doi.org/10.1016/j.matdes.2024.112981",
+      "article_or_access_link": "https://doi.org/10.1016/j.matdes.2024.112981",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-020",
+      "citation": "Mirmohammadi et al. (2024). Thermomechanical behavior of a novel hybrid epoxy/ZnO nanocomposite adhesive in structural bonding: Experimental analysis and ANN modeling. Colloids and Surfaces A: Physicochemical and Engineering Aspects. DOI: https://doi.org/10.1016/j.colsurfa.2024.133495",
+      "article_or_access_link": "https://doi.org/10.1016/j.colsurfa.2024.133495",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-021",
+      "citation": "Wang et al. (2024). Using machine learning and experimental study to correlate and predict accelerated aging with natural aging of GFRP composites in hygrothermal conditions. Construction and Building Materials. DOI: https://doi.org/10.1016/j.conbuildmat.2024.137264",
+      "article_or_access_link": "https://doi.org/10.1016/j.conbuildmat.2024.137264",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-022",
+      "citation": "Shafe et al. (2022). Effect of atomistic fingerprints on thermomechanical properties of epoxy-diamine thermoset shape memory polymers. Polymer. DOI: https://doi.org/10.1016/j.polymer.2022.124577",
+      "article_or_access_link": "https://doi.org/10.1016/j.polymer.2022.124577",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "Recheck: Elsevier API reports openaccess=0/openArchiveArticle=false; LSU repository record has no downloadable file.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-023",
+      "citation": "Francisco M. Monticeli et al. (2022). Prediction of Bending Properties for 3D-Printed Carbon Fibre/Epoxy Composites with Several Processing Parameters Using ANN and Statistical Methods. Polymers. DOI: https://doi.org/10.3390/polym14173668",
+      "article_or_access_link": "https://doi.org/10.3390/polym14173668",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-024",
+      "citation": "Yan et al. (2021). Machine learning assisted discovery of new thermoset shape memory polymers based on a small training dataset. Polymer. DOI: https://doi.org/10.1016/j.polymer.2020.123351",
+      "article_or_access_link": "https://doi.org/10.1016/j.polymer.2020.123351",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "Recheck: Elsevier API reports openaccess=0/openArchiveArticle=false; LSU repository record has no downloadable file.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-025",
+      "citation": "Doblies et al. (2019). Prediction of Thermal Exposure and Mechanical Behavior of Epoxy Resin using Artificial Neural Networks and Fourier Transform Infrared Spectroscopy. Polymers. DOI: https://doi.org/10.3390/polym11020363",
+      "article_or_access_link": "https://doi.org/10.3390/polym11020363",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-026",
+      "citation": "Guan et al. (2019). Rapid Decomposition of Epoxy Resins via Raman Spectrometry in Combination with Machine Learning Algorithms. Journal of Bioresources and Bioproducts. DOI: https://doi.org/10.21967/jbb.v4i2.217",
+      "article_or_access_link": "https://doi.org/10.21967/jbb.v4i2.217",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-027",
+      "citation": "Sruthi Sunder et al. (2025). Systematically adapting processability and flame retardancy of epoxy glass fiber reinforced composites for railway applications. 24th International Conference on Composite Materials, Baltimore, 4–8 Aug 2025. DOI: NR",
+      "article_or_access_link": "https://doi.org/10.5281/zenodo.18597540",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: Zenodo record 10.5281/zenodo.18597540 provides the conference PDF and states CC BY-SA 4.0 open access.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": "CC BY-SA 4.0",
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-028",
+      "citation": "K. Aghabalaei Baghaei et al. (2024). Artificial neural network prediction of transverse modulus in humid conditions for randomly distributed unidirectional fibre reinforced composites: A micromechanics approach. Composite Structures. DOI: https://doi.org/10.1016/j.compstruct.2024.118073",
+      "article_or_access_link": "https://doi.org/10.1016/j.compstruct.2024.118073",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-029",
+      "citation": "Louhichi et al. (2026). Methods to optimize tribological properties of pineapple leaf fiber epoxy composites. Industrial Crops & Products. DOI: https://doi.org/10.1016/j.indcrop.2026.122865",
+      "article_or_access_link": "https://doi.org/10.1016/j.indcrop.2026.122865",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-030",
+      "citation": "Behzad Hashemi Soudmand et al. (2026). Physics-informed machine learning integrated with finite-element modeling for microstructure-driven thermal conductivity prediction in epoxy/AlN nanocomposites. Applied Thermal Engineering. DOI: https://doi.org/10.1016/j.applthermaleng.2026.130396",
+      "article_or_access_link": "https://doi.org/10.1016/j.applthermaleng.2026.130396",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-031",
+      "citation": "Wang et al. (2025). XGBoost and genetic programming methods for analysing the vitreous transition of the epoxy adhesive. Journal of Adhesion Science and Technology. DOI: https://doi.org/10.1080/01694243.2025.2450268",
+      "article_or_access_link": "https://doi.org/10.1080/01694243.2025.2450268",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-032",
+      "citation": "Yao et al. (2022). AI-enabled Automatic Molding Compound Selection for A Power Device with High Solder Joint Reliability. 2022 23rd International Conference on Electronic Packaging Technology (ICEPT). DOI: https://doi.org/10.1109/ICEPT56209.2022.9873400",
+      "article_or_access_link": "https://doi.org/10.1109/ICEPT56209.2022.9873400",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-033",
+      "citation": "Lavanya Dhanapalan et al. (2026). Biosilica and clove oil-modified banana fiber epoxy composites: mechanical, thermal, wear, and drilling performance with machine learning and RSM optimization. Composite Interfaces. DOI: https://doi.org/10.1080/09276440.2025.2564473",
+      "article_or_access_link": "https://doi.org/10.1080/09276440.2025.2564473",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-034",
+      "citation": "Siny Paul et al. (2015). A Neural Network Model for Predicting the Dielectric Permittivity of Epoxy–Aluminum Nanocomposite and Its Experimental Validation. IEEE Transactions on Components, Packaging and Manufacturing Technology. DOI: https://doi.org/10.1109/TCPMT.2015.2451078",
+      "article_or_access_link": "https://doi.org/10.1109/TCPMT.2015.2451078",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-035",
+      "citation": "Ganguluri Kranthi et al. (2010). Evaluation and prediction of wear response of pine wood dust filled epoxy composites using neural computation. Computational Materials Science. DOI: https://doi.org/10.1016/j.commatsci.2010.06.001",
+      "article_or_access_link": "https://doi.org/10.1016/j.commatsci.2010.06.001",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-036",
+      "citation": "Pati et al. (2026). Machine Learning-Based Prediction of Mechanical Properties of Epoxy Composites Reinforced with Linz–Donawitz Slag. Journal of Materials Engineering and Performance. DOI: https://doi.org/10.1007/s11665-026-14192-4",
+      "article_or_access_link": "https://doi.org/10.1007/s11665-026-14192-4",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-037",
+      "citation": "Gowda et al. (2026). Sustainable development and ANN-based prediction of bio-waste-filled flax–pineapple–epoxy hybrid composites for enhanced mechanical performance. Scientific Reports. DOI: https://doi.org/10.1038/s41598-026-37015-x",
+      "article_or_access_link": "https://doi.org/10.1038/s41598-026-37015-x",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-038",
+      "citation": "Arvindbhai et al. (2025). Self-healing shape nanocomposites for structural longevity in aerospace applications based on interpretable artificial intelligence. International Journal on Interactive Design and Manufacturing (IJIDeM). DOI: https://doi.org/10.1007/s12008-025-02400-9",
+      "article_or_access_link": "https://doi.org/10.1007/s12008-025-02400-9",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-039",
+      "citation": "Shettar et al. (2025). Experimental Investigation on Mechanical Properties of Glass Fiber–Nanoclay–Epoxy Composites Under Water-Soaking: A Comparative Study Using RSM and ANN. Journal of Composites Science. DOI: https://doi.org/10.3390/jcs9040195",
+      "article_or_access_link": "https://doi.org/10.3390/jcs9040195",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-040",
+      "citation": "Saravana Kumar et al. (2025). Wettability-Driven void suppression and enhanced mechanical performance in Si₃N₄-Reinforced bamboo Fiber epoxy composites using COCOSO and ANN modeling. Scientific Reports. DOI: https://doi.org/10.1038/s41598-025-05056-3",
+      "article_or_access_link": "https://doi.org/10.1038/s41598-025-05056-3",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-041",
+      "citation": "Prashanth et al. (2025). Development of Sustainable Okra Fiber-Nano-SiO₂-reinforced Epoxy Composites: Mechanical Characterization and Machine Learning-based Prediction. Journal of Environmental Nanotechnology. DOI: https://doi.org/10.13074/jent.2025.06.2511437",
+      "article_or_access_link": "https://doi.org/10.13074/jent.2025.06.2511437",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-042",
+      "citation": "Mahesha et al. (2025). Novel Prediction Model for Validating the Mechanical Behaviour of Composite Materials Using Deep Learning. Iranian Journal of Science and Technology, Transactions of Civil Engineering. DOI: https://doi.org/10.1007/s40996-024-01646-9",
+      "article_or_access_link": "https://doi.org/10.1007/s40996-024-01646-9",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-043",
+      "citation": "Manjunatha et al. (2025). Effect of fly-ash as filler material on mechanical and thermal properties of jute-wool-epoxy hybrid composite: prediction using artificial neural network model. Journal of the Indian Academy of Wood Science. DOI: https://doi.org/10.1007/s13196-025-00385-2",
+      "article_or_access_link": "https://doi.org/10.1007/s13196-025-00385-2",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-044",
+      "citation": "Saravanakumar et al. (2024). Integrating machine learning and response surface methodology for analyzing anisotropic mechanical properties of biocomposites. Composite Interfaces. DOI: https://doi.org/10.1080/09276440.2023.2260239",
+      "article_or_access_link": "https://doi.org/10.1080/09276440.2023.2260239",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-045",
+      "citation": "Kadhom et al. (2024). Experimental investigating and machine learning prediction of GNP concentration on epoxy composites. Structural Engineering and Mechanics. DOI: https://doi.org/10.12989/sem.2024.90.4.403",
+      "article_or_access_link": "https://doi.org/10.12989/sem.2024.90.4.403",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-046",
+      "citation": "Ikechukwu G. Chibueze et al. (2024). Utilizing fuzzy logic, particle swarm optimization, desirability function and NSGA-II for multi-objective optimization of sponge Gourd–Bagasse polymer composite properties. Discover Chemical Engineering. DOI: https://doi.org/10.1007/s43938-024-00071-8",
+      "article_or_access_link": "https://doi.org/10.1007/s43938-024-00071-8",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-047",
+      "citation": "Beldar et al. (2024). Utilizing machine learning to forecast mechanical characteristics of NaOH-Treated jute fiber reinforced composite materials. Materials Letters. DOI: https://doi.org/10.1016/j.matlet.2024.137411",
+      "article_or_access_link": "https://doi.org/10.1016/j.matlet.2024.137411",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-048",
+      "citation": "Gazo Hanna et al. (2023). Exploring Gel-Point Identification in Epoxy Resin Using Rheology and Unsupervised Learning. Gels. DOI: https://doi.org/10.3390/gels9100828",
+      "article_or_access_link": "https://doi.org/10.3390/gels9100828",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-049",
+      "citation": "Naik et al. (2023). Statistical and Artificial Neural Network Coupled Technique for Prediction of Tribo-Performance in Amine-Cured Bio-Based Epoxy/MMT Nanocomposites. Journal of Composites Science. DOI: https://doi.org/10.3390/jcs7090372",
+      "article_or_access_link": "https://doi.org/10.3390/jcs7090372",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-050",
+      "citation": "Phunpeng et al. (2023). The Flexural Strength Prediction of Carbon Fiber/Epoxy Composite Using Artificial Neural Network Approach. Materials. DOI: https://doi.org/10.3390/ma16155301",
+      "article_or_access_link": "https://doi.org/10.3390/ma16155301",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-051",
+      "citation": "Geetakshi Teli et al. (2023). Investigation of Dry Sliding Tribological Behaviour of Epoxy Composites Filled with Hemp Particulates Using Artificial Neural Networks. Arabian Journal for Science and Engineering. DOI: https://doi.org/10.1007/s13369-022-07354-8",
+      "article_or_access_link": "https://doi.org/10.1007/s13369-022-07354-8",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-052",
+      "citation": "Natrayan et al. (2023). Optimization of Filler Content and Size on Mechanical Performance of Graphene/Hemp/Epoxy-Based Hybrid Composites using Taguchi with ANN Technique. Journal of Nanomaterials. DOI: https://doi.org/10.1155/2023/8235077",
+      "article_or_access_link": "https://doi.org/10.1155/2023/8235077",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-053",
+      "citation": "Kosicka et al. (2022). Prediction of Selected Mechanical Properties of Polymer Composites with Alumina Modifiers. Materials. DOI: https://doi.org/10.3390/ma15030882",
+      "article_or_access_link": "https://doi.org/10.3390/ma15030882",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-054",
+      "citation": "Aydogmus et al. (2022). Synthesis and characterization of EPS reinforced modified castor oil-based epoxy biocomposite. Journal of Building Engineering. DOI: https://doi.org/10.1016/j.jobe.2021.103897",
+      "article_or_access_link": "https://acikerisim.comu.edu.tr/bitstreams/6707231e-20c8-4acd-974a-28ec06c09a7c/download",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-055",
+      "citation": "Rostamiyan et al. (2013). Augmenting epoxy toughness by combination of both thermoplastic and nanolayered materials and using artificial intelligence techniques for modeling and optimization. Journal of Polymer Research. DOI: https://doi.org/10.1007/s10965-013-0135-3",
+      "article_or_access_link": "https://doi.org/10.1007/s10965-013-0135-3",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-056",
+      "citation": "Jonathan Theim et al. (2021). Using Data Science to Evaluate Nano-Reinforced Epoxy Surfaces. Proceedings of the American Society for Composites—Thirty-Sixth Technical Conference on Composite Materials. DOI: 10.12783/asc36/35815",
+      "article_or_access_link": "https://doi.org/10.12783/asc36/35815",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-057",
+      "citation": "O. Pastukh et al. (2026). Application of Ensemble Machine Learning Algorithms for Modeling the Thermomechanical Properties of Nano-Filled Epoxy Composites. Journal of Nano- and Electronic Physics. DOI: https://doi.org/10.21272/jnep.18(1).01028",
+      "article_or_access_link": "https://doi.org/10.21272/jnep.18(1).01028",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-058",
+      "citation": "Subham Kumar Bhoi et al. (2025). Data-Driven Modeling for Predicting Tribo-Performance of Flax-Steel-Epoxy Hybrid Composites Using Machine Learning Approach. Journal of Applied Polymer Science. DOI: https://doi.org/10.1002/app.57634",
+      "article_or_access_link": "https://doi.org/10.1002/app.57634",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-059",
+      "citation": "Mehmet Emin Demir et al. (2025). The effect of filler type (tungsten carbide, zinc oxide) and content on the mechanical and wear behavior of jute/flax reinforced epoxy hybrid composites: Experimental and artificial neural network analysis. Polymer Composites. DOI: https://doi.org/10.1002/pc.29879",
+      "article_or_access_link": "https://doi.org/10.1002/pc.29879",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-060",
+      "citation": "Rao et al. (2026). Hybridization effects in jute-ramie epoxy composites: mechanical-thermal study and deep neural modeling. Polymer Bulletin. DOI: https://doi.org/10.1007/s00289-026-06435-0",
+      "article_or_access_link": "https://doi.org/10.1007/s00289-026-06435-0",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-061",
+      "citation": "Srinivas et al. (2026). Prediction and interpretation of mechanical properties of date palm fiber reinforced areca nut husk biofiller composites using explainable machine learning. Interactions. DOI: https://doi.org/10.1007/s10751-026-02541-7",
+      "article_or_access_link": "https://doi.org/10.1007/s10751-026-02541-7",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-062",
+      "citation": "Khan et al. (2026). Machine Learning Assisted Sustainable Biochar-Reinforced Epoxy Nanocomposites for Improved Dielectric Performance. Journal of Macromolecular Science, Part B. DOI: https://doi.org/10.1080/00222348.2026.2669318",
+      "article_or_access_link": "https://doi.org/10.1080/00222348.2026.2669318",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-063",
+      "citation": "Gouda et al. (2025). Role of Mesoscale Wire Mesh in Abaca–Pineapple–Epoxy Composites for Improved Mechanical Properties—An Experimental Study With ANN Prediction. Polymer Composites. DOI: https://doi.org/10.1002/pc.30025",
+      "article_or_access_link": "https://doi.org/10.1002/pc.30025",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Wiley access is protected by an anti-bot page in this environment.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-064",
+      "citation": "Somsole et al. (2025). Experimental investigation and optimization of epoxy composites reinforced with jute fiber and alumina using the Jaya ANFIS approach. Scientific Reports. DOI: https://doi.org/10.1038/s41598-025-16587-0",
+      "article_or_access_link": "https://doi.org/10.1038/s41598-025-16587-0",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-065",
+      "citation": "Kurnool Bharathi Devi et al. (2025). AI-optimized kenaf/flax epoxy composites with tamarind shell for sustainable sensors. Microchemical Journal. DOI: https://doi.org/10.1016/j.microc.2025.115933",
+      "article_or_access_link": "https://doi.org/10.1016/j.microc.2025.115933",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-066",
+      "citation": "Rajendra Kumar et al. (2025). Dielectric Characterization and Machine Learning-Based Predictions in Polymer Composites with Mixed Nanoparticles. Journal of Macromolecular Science, Part B. DOI: https://doi.org/10.1080/00222348.2024.2372522",
+      "article_or_access_link": "https://doi.org/10.1080/00222348.2024.2372522",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-067",
+      "citation": "Md Mijanur Rahman et al. (2024). Characterization and predictive modeling of thermally aged glass fiber reinforced plastic composites. Research on Engineering Structures and Materials. DOI: https://doi.org/10.17515/resm2023.24me0609rs",
+      "article_or_access_link": "https://doi.org/10.17515/resm2023.24me0609rs",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: official journal PDF was retrieved from jresm.org.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-068",
+      "citation": "Egala et al. (2022). Influence of surface modifications of Castor oil fibre on mechanical properties of fibre reinforced Epoxy composites. Advances in Materials and Processing Technologies. DOI: https://doi.org/10.1080/2374068X.2021.1959107",
+      "article_or_access_link": "https://doi.org/10.1080/2374068X.2021.1959107",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-069",
+      "citation": "Choudhary et al. (2022). Development, characterization, and parametric analysis of dry sliding wear behavior of epoxy-short betel nut fiber composite using response surface method and neural computation. Polymers and Polymer Composites. DOI: https://doi.org/10.1177/09673911211066722",
+      "article_or_access_link": "https://doi.org/10.1177/09673911211066722",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-070",
+      "citation": "Dadrasi et al. (2019). Interactions between HA/GO/epoxy resin nanocomposites: optimization, modeling and mechanical performance using central composite design and genetic algorithm. Journal of the Brazilian Society of Mechanical Sciences and Engineering. DOI: https://doi.org/10.1007/s40430-019-1564-7",
+      "article_or_access_link": "https://doi.org/10.1007/s40430-019-1564-7",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Springer PDF access is protected by a browser challenge here.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-071",
+      "citation": "Padhi et al. (2014). Solid Particle Erosion Behavior of BFS-Filled Epoxy-SGF Composites Using Taguchi's Experimental Design and ANN. Tribology Transactions. DOI: https://doi.org/10.1080/10402004.2013.877178",
+      "article_or_access_link": "https://doi.org/10.1080/10402004.2013.877178",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-072",
+      "citation": "Fereidoon et al. (2013). Experimental, modeling and optimization study on the mechanical properties of epoxy/high-impact polystyrene/multi-walled carbon nanotube ternary nanocomposite using artificial neural network and genetic algorithm. Science and Engineering of Composite Materials. DOI: https://doi.org/10.1515/secm-2012-0178",
+      "article_or_access_link": "https://doi.org/10.1515/secm-2012-0178",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-073",
+      "citation": "Shivayogi B H et al. (2024). Assessment of fiber loading effects on mechanical properties and prediction of mechanical properties via artificial neural networks of hybrid jute/sheep wool epoxy composites. Engineering Research Express. DOI: https://doi.org/10.1088/2631-8695/ada10d",
+      "article_or_access_link": "https://doi.org/10.1088/2631-8695/ada10d",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: OpenAlex lists IOP publishedVersion as bronze OA and Crossref exposes publisher PDF links; Semantic Scholar reports closed, so manual access should be rechecked.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-074",
+      "citation": "Bansi Shingala et al. (2024). Random Forest Regression Analysis for Estimating Dielectric Properties in Epoxy Composites Doped with Hybrid Nano Fillers. Journal of Macromolecular Science, Part B: Physics. DOI: https://doi.org/10.1080/00222348.2024.2322189",
+      "article_or_access_link": "https://doi.org/10.1080/00222348.2024.2322189",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-075",
+      "citation": "Hariharan et al. (2026). Data-Driven Prediction and Optimization of Mechanical Properties and Vibration Damping in Cast Iron–Granite-Epoxy Hybrid Composites. Computers, Materials & Continua. DOI: https://doi.org/10.32604/cmc.2025.073772",
+      "article_or_access_link": "https://doi.org/10.32604/cmc.2025.073772",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-076",
+      "citation": "Ananya Kalita et al. (2025). Evaluation and prediction of the tribological behavior of graphene nanoplateletand jute microfiller-based bio-epoxy hybrid composites. Polymer International. DOI: https://doi.org/10.1002/pi.6765",
+      "article_or_access_link": "https://doi.org/10.1002/pi.6765",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Wiley access is protected by an anti-bot page in this environment.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-077",
+      "citation": "Thakor et al. (2025). Characteristics of nanoepoxy composite through structural, thermal and machine learning-enhanced dielectric analysis. Journal of Polymer Research. DOI: https://doi.org/10.1007/s10965-025-04410-3",
+      "article_or_access_link": "https://doi.org/10.1007/s10965-025-04410-3",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-078",
+      "citation": "Shaisundaram et al. (2025). Assessment of mechanical, thermal, and sliding wear performance of chemically treated alumina-filled biocomposites using machine learning and response surface methodology. Polymer Composites. DOI: https://doi.org/10.1002/pc.29798",
+      "article_or_access_link": "https://doi.org/10.1002/pc.29798",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-079",
+      "citation": "Mohit et al. (2025). Multi-criteria and CNN analysis of Al2O3/TiO2/egg shell/ATH ceramic fillers in glass fiber-epoxy composites. Journal of Materials Research and Technology. DOI: https://doi.org/10.1016/j.jmrt.2025.03.190",
+      "article_or_access_link": "https://doi.org/10.1016/j.jmrt.2025.03.190",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-080",
+      "citation": "Yuan et al. (2025). Temperature dynamics and mechanical properties analysis of carbon fiber epoxy composites radiated by nuclear explosion simulated light source. Scientific Reports. DOI: https://doi.org/10.1038/s41598-025-85959-3",
+      "article_or_access_link": "https://doi.org/10.1038/s41598-025-85959-3",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-081",
+      "citation": "Avalos et al. (2021). Visible fingerprint of X-ray images of epoxy resins using singular value decomposition of deep learning features. Computational Materials Science. DOI: https://doi.org/10.1016/j.commatsci.2020.109996",
+      "article_or_access_link": "https://arxiv.org/abs/2004.11968",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: arXiv preprint 2004.11968 was retrieved successfully.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-082",
+      "citation": "Niegisch et al. (2023). Application of machine learning methods for process optimization in electronic packaging processes. 24th European Microelectronics and Packaging Conference (EMPC2023). DOI: https://doi.org/10.23919/EMPC55870.2023.10418387",
+      "article_or_access_link": "https://doi.org/10.23919/EMPC55870.2023.10418387",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-083",
+      "citation": "Girish et al. (2025). Thermal and Mechanical Properties Enhancement of Epoxy Composites Using Graphene, MWCNTs, and Biochar: A Machine Learning-Assisted Approach. Journal of The Institution of Engineers (India): Series D. DOI: https://doi.org/10.1007/s40033-025-00950-6",
+      "article_or_access_link": "https://doi.org/10.1007/s40033-025-00950-6",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-084",
+      "citation": "Singh et al. (2022). Computational data-driven based optimization of tribological performance of graphene filled glass fiber reinforced polymer composite using machine learning approach. Materials Today: Proceedings. DOI: https://doi.org/10.1016/j.matpr.2022.06.253",
+      "article_or_access_link": "https://doi.org/10.1016/j.matpr.2022.06.253",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-085",
+      "citation": "Sumesh et al. (2020). The influence of reinforcement, alkali treatment, compression pressure and temperature in fabrication of sisal/coir/epoxy composites: GRA and ANN prediction. Polymer Bulletin. DOI: https://doi.org/10.1007/s00289-019-02988-5",
+      "article_or_access_link": "https://doi.org/10.1007/s00289-019-02988-5",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-086",
+      "citation": "Liu et al., 2024. Machine learning assisted discovery of high-efficiency self-healing epoxy coating for corrosion protection. npj Materials Degradation, 8, 11. DOI/URL: https://doi.org/10.1038/s41529-024-00427-z",
+      "article_or_access_link": "https://doi.org/10.1038/s41529-024-00427-z",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-087",
+      "citation": "Jin et al., 2020. Composition optimization of a high-performance epoxy resin based on molecular dynamics and machine learning. Materials & Design, 194, 108932. DOI/URL: https://doi.org/10.1016/j.matdes.2020.108932",
+      "article_or_access_link": "https://doi.org/10.1016/j.matdes.2020.108932",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-088",
+      "citation": "Higuchi et al., 2019. Prediction of the Glass Transition Temperatures of Linear Homo/heteropolymers and Cross-linked Epoxy Resins. ACS Applied Polymer Materials, 1, 1430-1442. DOI/URL: https://doi.org/10.1021/acsapm.9b00198",
+      "article_or_access_link": "https://doi.org/10.1021/acsapm.9b00198",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-089",
+      "citation": "Si et al., 2025. Reactive Machine Learning Force Field for Crosslinked Epoxy. Chinese Journal of Polymer Science. DOI/URL: https://doi.org/10.1007/s10118-025-3389-4",
+      "article_or_access_link": "https://doi.org/10.1007/s10118-025-3389-4",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-090",
+      "citation": "Wu et al., 2025. Machine-Learning-Assisted Design of Mechanically Robust Room-Temperature Self-Healing Epoxy Resins. Macromolecules, 58, 5101–5109. DOI/URL: https://doi.org/10.1021/acs.macromol.5c00667",
+      "article_or_access_link": "https://doi.org/10.1021/acs.macromol.5c00667",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-091",
+      "citation": "Jang et al., 2024. Machine Learning-Based Epoxy Resin Property Prediction. Molecular Systems Design & Engineering, 9, 959-968; uploaded PDF appears to be Electronic Supplementary Material only. DOI/URL: https://doi.org/10.1039/D4ME00060A",
+      "article_or_access_link": "https://doi.org/10.1039/D4ME00060A",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-092",
+      "citation": "Gayatri Vineela M., Abhishek Dave, Phaneendra Kiran Chaganti, 2018. Artificial Neural Network based Prediction of Tensile Strength of Hybrid Composites. Materials Today: Proceedings, 5, 19908–19915. DOI: https://doi.org/10.1016/j.matpr.2018.06.356",
+      "article_or_access_link": "https://doi.org/10.1016/j.matpr.2018.06.356",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-093",
+      "citation": "Rodica-Mariana Diaconescu, Marinela Barbuta, Maria Harja, 2013. Prediction of properties of polymer concrete composite with tire rubber using neural networks. Materials Science and Engineering B, 178, 1259–1267. DOI/URL: https://doi.org/10.1016/j.mseb.2013.01.014",
+      "article_or_access_link": "https://doi.org/10.1016/j.mseb.2013.01.014",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-094",
+      "citation": "Thakor et al., 2025. Machine learning-assisted prediction and optimization of dielectric properties in epoxy resin nanocomposites. Macromolecular Research. DOI/URL: https://doi.org/10.1007/s13233-025-00418-2",
+      "article_or_access_link": "https://doi.org/10.1007/s13233-025-00418-2",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-095",
+      "citation": "Pathak et al., 2025. Dielectric properties of green synthesized Ag-doped ZnO NPs in epoxy resin polymer nanocomposites. Journal of Polymer Research, 32, 103. DOI/URL: https://doi.org/10.1007/s10965-025-04334-y",
+      "article_or_access_link": "https://doi.org/10.1007/s10965-025-04334-y",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-096",
+      "citation": "Navas-Pinto et al., 2026. Machine Learning Approach for Mechanical Property Prediction of a Bio-Epoxy and Glass Fiber Composite Reinforced with Titanium Dioxide Nanoparticles. Journal of Composites Science, 10, 123. DOI/URL: https://doi.org/10.3390/jcs10030123",
+      "article_or_access_link": "https://doi.org/10.3390/jcs10030123",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-097",
+      "citation": "K. Palanikumar, M. Venkatesan, N. Senthilkumar, B. Latha, 2026. Mechanical Properties Analysis and Modeling and Optimization on Tribological Performance of Carbon Nano Tube Added Hybrid Glass Fiber Strengthened Plastic Composites. Silicon, 18, 2723–2747. DOI/URL: https://doi.org/10.1007/s12633-026-03680-w",
+      "article_or_access_link": "https://doi.org/10.1007/s12633-026-03680-w",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-098",
+      "citation": "Navas-Pinto et al., 2025. Mechanical response of bio-epoxy resin composites reinforced with graphene oxide: machine learning approach for property prediction. Functional Composites and Structures, 7, 035002. DOI/URL: https://doi.org/10.1088/2631-6331/adebdb",
+      "article_or_access_link": "https://doi.org/10.1088/2631-6331/adebdb",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-099",
+      "citation": "Meng et al., 2026. Study on the Mechanical Performance Degradation of Epoxy and CFRP Under High-Pressure Aging Environment and Machine Learning Prediction Models. Polymer Composites, early view. DOI/URL: https://doi.org/10.1002/pc.70835",
+      "article_or_access_link": "https://doi.org/10.1002/pc.70835",
+      "full_text_status": "Publicly accessible",
+      "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Wiley access is protected by an anti-bot page in this environment.; Dataset counts not explicitly reported",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-100",
+      "citation": "H. Mohit, M. R. Sanjay, Suchart Siengchin, Belal Kanaan, Vakkar Ali, Ibrahim M. Alarifi, Tarek M. A. A. El-Bagory, 2023. Predicting physico-mechanical and thermal properties of loofa cylindrica fibers and Al2O3/Al-SiC reinforced polymer hybrid composites using artificial neural network techniques. Construction and Building Materials, 409, 133901. DOI/URL: https://doi.org/10.1016/j.conbuildmat.2023.133901",
+      "article_or_access_link": "https://doi.org/10.1016/j.conbuildmat.2023.133901",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-101",
+      "citation": "Kurita et al. (2022). k-Means Clustering for Prediction of Tensile Properties in Carbon Fiber-Reinforced Polymer Composites. Advanced Engineering Materials. DOI: https://doi.org/10.1002/adem.202101072",
+      "article_or_access_link": "https://doi.org/10.1002/adem.202101072",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-102",
+      "citation": "Zhao et al. (2024). Design of multicomponent thermosetting polymers with enhanced tensile properties through active learning. Composites Science and Technology. DOI: https://doi.org/10.1016/j.compscitech.2024.110779",
+      "article_or_access_link": "https://doi.org/10.1016/j.compscitech.2024.110779",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-103",
+      "citation": "Yasniy et al. (2024). Machine learning methods as applied to modelling thermal conductivity of epoxy-based composites with different fillers for aircraft. Aviation. DOI: https://doi.org/10.3846/aviation.2024.21472",
+      "article_or_access_link": "https://doi.org/10.3846/aviation.2024.21472",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-104",
+      "citation": "Albuquerque et al. (2023). Multi-Objective Optimization of Sustainable Epoxy Resin Systems through Bayesian Optimization and Machine Learning. ACS Applied Engineering Materials. DOI: https://doi.org/10.1021/acsaenm.3c00590",
+      "article_or_access_link": "https://doi.org/10.1021/acsaenm.3c00590",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-105",
+      "citation": "Watpade et al. (2024). Comparative analysis of machine learning models for predicting dielectric properties in MoS2 nanofiller-reinforced epoxy composites. Ain Shams Engineering Journal. DOI: https://doi.org/10.1016/j.asej.2024.102754",
+      "article_or_access_link": "https://doi.org/10.1016/j.asej.2024.102754",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-106",
+      "citation": "Chen et al. (2023). Machine learning-guided design of organic phosphorus-containing flame retardants to improve the limiting oxygen index of epoxy resins. Chemical Engineering Journal. DOI: https://doi.org/10.1016/j.cej.2022.140547",
+      "article_or_access_link": "https://doi.org/10.1016/j.cej.2022.140547",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-107",
+      "citation": "Meier et al. (2022). Modeling glass transition temperatures of epoxy systems: a machine learning study. Journal of Materials Science. DOI: https://doi.org/10.1007/s10853-022-07372-9",
+      "article_or_access_link": "https://doi.org/10.1007/s10853-022-07372-9",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-108",
+      "citation": "Kumar et al. (2022). Data-driven modeling for predicting tribo-performance of graphene-incorporated glass-fabric reinforced epoxy composites using machine learning algorithms. Polymer Composites. DOI: https://doi.org/10.1002/pc.26974",
+      "article_or_access_link": "https://doi.org/10.1002/pc.26974",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-109",
+      "citation": "Albuquerque et al. (2024). Designing formulations of bio-based, multicomponent epoxy resin systems via machine learning. MRS Bulletin. DOI: https://doi.org/10.1557/s43577-023-00504-9",
+      "article_or_access_link": "https://doi.org/10.1557/s43577-023-00504-9",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-110",
+      "citation": "Rothenhäusler et al. (2024). Strategies for the fast optimization of the glass transition temperature of sustainable epoxy resin systems via machine learning. Journal of Applied Polymer Science. DOI: https://doi.org/10.1002/app.55422",
+      "article_or_access_link": "https://doi.org/10.1002/app.55422",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-111",
+      "citation": "Kraisornkachit et al. (2024). Multi-Objective Optimization of Adhesive Joint Strength and Elastic Modulus of Adhesive Epoxy with Active Learning. Materials. DOI: https://doi.org/10.3390/ma17122866",
+      "article_or_access_link": "https://doi.org/10.3390/ma17122866",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-112",
+      "citation": "Aydın et al. (2025). The comparative evaluation of the wear behavior of epoxy matrix hybrid nano-composites via experiments and machine learning models. Tribology International. DOI: https://doi.org/10.1016/j.triboint.2024.110451",
+      "article_or_access_link": "https://doi.org/10.1016/j.triboint.2024.110451",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-113",
+      "citation": "Pruksawan et al. (2019). Prediction and optimization of epoxy adhesive strength from a small dataset through active learning. Science and Technology of Advanced Materials. DOI: https://doi.org/10.1080/14686996.2019.1673670",
+      "article_or_access_link": "https://doi.org/10.1080/14686996.2019.1673670",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-114",
+      "citation": "Giuntoli et al. (2021). Systematic coarse-graining of epoxy resins with machine learning-informed energy renormalization. npj Computational Materials. DOI: https://doi.org/10.1038/s41524-021-00634-1",
+      "article_or_access_link": "https://doi.org/10.1038/s41524-021-00634-1",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-115",
+      "citation": "Shafe et al. (2024). Identification and Design of Better Diamine-Hardened Epoxy-Based Thermoset Shape Memory Polymers: Simulation and Machine Learning. Macromolecules. DOI: https://doi.org/10.1021/acs.macromol.4c01598",
+      "article_or_access_link": "https://repository.lsu.edu/mechanical_engineering_pubs/1519",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-116",
+      "citation": "Choi et al. (2022). Predicting the Properties of High-Performance Epoxy Resin by Machine Learning Using Molecular Dynamics Simulations. Nanomaterials. DOI: https://doi.org/10.3390/nano12142353",
+      "article_or_access_link": "https://doi.org/10.3390/nano12142353",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-117",
+      "citation": "Luo et al. (2021). Properties prediction and design of self-healing epoxy resin combining molecular dynamics simulation and back propagation neural network. Materials Research Express. DOI: https://doi.org/10.1088/2053-1591/abf66b",
+      "article_or_access_link": "https://doi.org/10.1088/2053-1591/abf66b",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-118",
+      "citation": "Hu et al. (2022). Machine-Learning-Assisted Design of Highly Tough Thermosetting Polymers. ACS Applied Materials & Interfaces. DOI: https://doi.org/10.1021/acsami.2c14290",
+      "article_or_access_link": "https://doi.org/10.1021/acsami.2c14290",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-119",
+      "citation": "Qiu et al. (2022). Highly accurate prediction of viscosity of epoxy resin and diluent at various temperatures utilizing machine learning. Polymer, 256, 125216. DOI: https://doi.org/10.1016/j.polymer.2022.125216",
+      "article_or_access_link": "https://doi.org/10.1016/j.polymer.2022.125216",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-120",
+      "citation": "Liu et al. (2022). Performance optimization of shape memory epoxy polymers based on machine learning. Polymers for Advanced Technologies, 33(4), 1222-1232. DOI: https://doi.org/10.1002/pat.5595",
+      "article_or_access_link": "https://doi.org/10.1002/pat.5595",
+      "full_text_status": "Not publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    },
+    {
+      "study_id": "EML-121",
+      "citation": "Sindu and Hamaekers (2025). Feature-based prediction of properties of cross-linked epoxy polymers by molecular dynamics and machine learning techniques. Modelling and Simulation in Materials Science and Engineering, 33, 065010. DOI: https://doi.org/10.1088/1361-651X/adf56c",
+      "article_or_access_link": "https://doi.org/10.1088/1361-651X/adf56c",
+      "full_text_status": "Publicly accessible",
+      "access_note": "",
+      "license_reported_in_source_notes": null,
+      "pdf_redistribution_clearance": "Not verified"
+    }
+  ]
+}

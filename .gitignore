@@ -1,0 +1,24 @@
+# Only explicitly reviewed publication files may enter this repository.
+/*
+!/.gitignore
+!/.gitattributes
+!/README.md
+!/evidence.xlsx
+!/docs/
+/docs/*
+!/docs/full_text_access.md
+!/data/
+/data/*
+!/data/full_text_access.json
+!/public_pdfs/
+/public_pdfs/*
+!/public_pdfs/README.md
+
+# Keep local full-text archives, credentials, and temporary files private.
+/reviewer3_final_refs/
+**/.env
+**/.env.*
+**/*.pem
+**/*.key
+**/~$*
+**/__pycache__/
