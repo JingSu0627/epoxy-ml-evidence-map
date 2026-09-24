@@ -10,7 +10,7 @@ The access fields were extracted on 2026-09-24 from the author-supplied `literat
 
 Source-workbook SHA-256: `a69f9cc9f1702a1d6c7bd639bde72ea3f5dff2da81fb9e09e08dff9e7390f7d0`.
 
-Study IDs and citation DOIs were matched against the local reference index. For the two records lacking a DOI in that older index, author, year, and title were checked. EML identifiers belong to this companion index; they are not a column in the unchanged evidence workbook.
+Study IDs and citation DOIs were matched against the local reference index. For the two records lacking a DOI in that older index, author, year, and title were checked. EML identifiers belong to this companion index; they are not a separate column in the evidence workbook. Its original evidence fields are preserved, with PDF-management fields appended separately.
 
 ## Interpretation
 
@@ -157,3 +157,5 @@ Study IDs and citation DOIs were matched against the local reference index. For 
 ## Repository PDF copies
 
 The [PDF collection](../public_pdfs/README.md) provides direct downloads, attribution, license links, and file checksums for the included subset. Original access labels above are unchanged; a public-access label alone does not authorize redistributing a local PDF.
+
+The current collection contains **42 uploaded PDFs**, including 8 noncommercial-license files after the author confirmed noncommercial academic use. **15 publicly accessible candidates are not uploaded pending review**, and **64 other records are not uploaded because the source table does not confirm public access**. The main [evidence.xlsx](../evidence.xlsx) now includes these three categories in column AB (`Repository PDF status`), PDF links in AC, and specific license conditions or withholding reasons in AD. Its original 26 evidence columns and coding guide remain unchanged. See the PDF manifest for the complete list of withheld files and their reasons.

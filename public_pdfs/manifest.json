@@ -1,15 +1,16 @@
 {
   "checked_on": "2026-09-24",
   "reviewed_access_candidates": 57,
-  "included_count": 34,
-  "withheld_count": 23,
-  "noncommercial_use_confirmed": false,
+  "included_count": 42,
+  "withheld_count": 15,
+  "noncommercial_use_confirmed": true,
   "license_counts": {
     "CC BY 4.0": 33,
-    "CC BY-SA 4.0": 1
+    "CC BY-NC-ND 4.0": 6,
+    "CC BY-SA 4.0": 1,
+    "CC BY-NC 4.0": 2
   },
-  "total_pdf_bytes": 220677606,
-  "evidence_workbook_unchanged_sha256": "6f16f8e49519f56ac250ce09c228ac0960ec8690bf482e51e68e40741bcdb432",
+  "total_pdf_bytes": 254574833,
   "scope": "Exact local versions reviewed. No blanket license for all third-party material; original notices and exclusions remain applicable.",
   "records": [
     {
@@ -177,8 +178,8 @@
       "study_id": "EML-019",
       "citation": "Si Zhang et al. (2024). Multiobjective optimization of carbon fiber–reinforced epoxy composite properties using nonparametric modeling. Materials & Design. DOI: https://doi.org/10.1016/j.matdes.2024.112981",
       "source_link": "https://doi.org/10.1016/j.matdes.2024.112981",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-019.pdf",
       "license": "CC BY-NC-ND 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "license_evidence": {
@@ -189,10 +190,10 @@
         ],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "6cae2701a9168725a966f803de6d2c9e828d50a24526177f26317bcb99aacf20",
+      "size_bytes": 2423374,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-023",
@@ -361,8 +362,8 @@
       "study_id": "EML-040",
       "citation": "Saravana Kumar et al. (2025). Wettability-Driven void suppression and enhanced mechanical performance in Si₃N₄-Reinforced bamboo Fiber epoxy composites using COCOSO and ANN modeling. Scientific Reports. DOI: https://doi.org/10.1038/s41598-025-05056-3",
       "source_link": "https://doi.org/10.1038/s41598-025-05056-3",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-040.pdf",
       "license": "CC BY-NC-ND 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "license_evidence": {
@@ -373,10 +374,10 @@
         ],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "db40b8074565868b10f5d557a45a4704e7c7549d1203cdfebac6d9264c71530b",
+      "size_bytes": 3478084,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-041",
@@ -403,8 +404,8 @@
       "study_id": "EML-046",
       "citation": "Ikechukwu G. Chibueze et al. (2024). Utilizing fuzzy logic, particle swarm optimization, desirability function and NSGA-II for multi-objective optimization of sponge Gourd–Bagasse polymer composite properties. Discover Chemical Engineering. DOI: https://doi.org/10.1007/s43938-024-00071-8",
       "source_link": "https://doi.org/10.1007/s43938-024-00071-8",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-046.pdf",
       "license": "CC BY-NC-ND 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "license_evidence": {
@@ -415,10 +416,10 @@
         ],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "21663409806f412b841b1354ca9419c55cea30cacb691c03a4dde32a3b580f7d",
+      "size_bytes": 2737917,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-048",
@@ -582,8 +583,8 @@
       "study_id": "EML-059",
       "citation": "Mehmet Emin Demir et al. (2025). The effect of filler type (tungsten carbide, zinc oxide) and content on the mechanical and wear behavior of jute/flax reinforced epoxy hybrid composites: Experimental and artificial neural network analysis. Polymer Composites. DOI: https://doi.org/10.1002/pc.29879",
       "source_link": "https://doi.org/10.1002/pc.29879",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-059.pdf",
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "license_evidence": {
@@ -594,10 +595,10 @@
         ],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "642dd37d7b8eaf9068252e0685445766ac5cdd9227906e103ad79dc2d2100b9d",
+      "size_bytes": 5251582,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-063",
@@ -617,8 +618,8 @@
       "study_id": "EML-064",
       "citation": "Somsole et al. (2025). Experimental investigation and optimization of epoxy composites reinforced with jute fiber and alumina using the Jaya ANFIS approach. Scientific Reports. DOI: https://doi.org/10.1038/s41598-025-16587-0",
       "source_link": "https://doi.org/10.1038/s41598-025-16587-0",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-064.pdf",
       "license": "CC BY-NC-ND 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "license_evidence": {
@@ -629,17 +630,17 @@
         ],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "84730b121fbfc425679b52fda19c30d53238d870b7e78802a7bedc9dfdb5c6a8",
+      "size_bytes": 11907531,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-067",
       "citation": "Md Mijanur Rahman et al. (2024). Characterization and predictive modeling of thermally aged glass fiber reinforced plastic composites. Research on Engineering Structures and Materials. DOI: https://doi.org/10.17515/resm2023.24me0609rs",
       "source_link": "https://doi.org/10.17515/resm2023.24me0609rs",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-067.pdf",
       "license": "CC BY-NC 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc/4.0/",
       "license_evidence": {
@@ -650,10 +651,10 @@
         ],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "c8808049191f498108c512d1720daf16ebd26aa922002ce6748ab7c55caef7b2",
+      "size_bytes": 1464384,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-069",
@@ -776,8 +777,8 @@
       "study_id": "EML-080",
       "citation": "Yuan et al. (2025). Temperature dynamics and mechanical properties analysis of carbon fiber epoxy composites radiated by nuclear explosion simulated light source. Scientific Reports. DOI: https://doi.org/10.1038/s41598-025-85959-3",
       "source_link": "https://doi.org/10.1038/s41598-025-85959-3",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-080.pdf",
       "license": "CC BY-NC-ND 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "license_evidence": {
@@ -788,10 +789,10 @@
         ],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "a8ef4ee9859419ef5a355041e69422d86ba1ab18ba821da4315d0310d3fd8f39",
+      "size_bytes": 2820507,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-081",
@@ -902,8 +903,8 @@
       "study_id": "EML-105",
       "citation": "Watpade et al. (2024). Comparative analysis of machine learning models for predicting dielectric properties in MoS2 nanofiller-reinforced epoxy composites. Ain Shams Engineering Journal. DOI: https://doi.org/10.1016/j.asej.2024.102754",
       "source_link": "https://doi.org/10.1016/j.asej.2024.102754",
-      "included": false,
-      "file": null,
+      "included": true,
+      "file": "EML-105.pdf",
       "license": "CC BY-NC-ND 4.0",
       "license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/",
       "license_evidence": {
@@ -912,10 +913,10 @@
         "license_link_annotations": [],
         "checked_on": "2026-09-24"
       },
-      "withheld_reason": "Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
-      "sha256": null,
-      "size_bytes": null,
-      "modifications": null
+      "withheld_reason": null,
+      "sha256": "7dad3229bef8f92025bff581b188c2abee8ee2898fb2bfad1c775dccf4c80427",
+      "size_bytes": 3813848,
+      "modifications": "None; byte-identical copy; filename shortened to Study ID"
     },
     {
       "study_id": "EML-107",
@@ -1105,5 +1106,8 @@
       "size_bytes": 1938977,
       "modifications": "None; byte-identical copy; filename shortened to Study ID"
     }
-  ]
+  ],
+  "original_evidence_workbook_sha256": "6f16f8e49519f56ac250ce09c228ac0960ec8690bf482e51e68e40741bcdb432",
+  "evidence_workbook_sha256": "7e7d83f6c1474fba6eec4cf70d47ef0c478b14d6dea10705fd43698bc44703ae",
+  "evidence_update": "Four upload-management columns appended with author approval. Original 26 evidence columns and Coding guide preserved."
 }

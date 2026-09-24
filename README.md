@@ -4,17 +4,17 @@
 
 **[Download evidence.xlsx (Excel)](https://github.com/JingSu0627/epoxy-ml-evidence-map/raw/refs/heads/main/evidence.xlsx)**
 
-**121 studies | 26 evidence fields | Study-level evidence and coding guide**
+**121 studies | 26 evidence fields + 4 PDF-management fields | Study-level evidence and coding guide**
 
 This is the primary dataset for the review. Start here for study details, model classifications, validation evidence, and data/code availability.
 
-[View the workbook on GitHub](evidence.xlsx) | [Browse literature access links](docs/full_text_access.md) | [Licensed PDFs (34)](public_pdfs/README.md)
+[View the workbook on GitHub](evidence.xlsx) | [Browse literature access links](docs/full_text_access.md) | [Licensed PDFs (42)](public_pdfs/README.md)
 
 ## Overview
 
 This repository provides a study-level evidence table supporting a review of machine learning for epoxy materials, including property prediction, state assessment, formulation and process optimization, and simulation acceleration.
 
-The current [evidence.xlsx](evidence.xlsx) contains **121 study records and 26 columns** in the `Evidence table` worksheet, together with a `Coding guide` worksheet. The workbook is the source for the descriptive fields and coded counts below. This README was reconciled against it on 2026-09-24 without modifying the workbook. Reconciliation establishes agreement with the supplied extraction, not independent verification of every source publication or completeness of the literature search.
+The current [evidence.xlsx](evidence.xlsx) contains **121 study records and 30 columns** in the `Evidence table` worksheet, together with a `Coding guide` worksheet. The original 26 evidence columns are the source for the descriptive fields and coded counts below. On 2026-09-24, four PDF-management columns were appended with author approval; all original evidence values, coding, and the `Coding guide` were preserved and checked against a local backup. Reconciliation establishes agreement with the supplied extraction, not independent verification of every source publication or completeness of the literature search.
 
 ## Repository contents
 
@@ -29,14 +29,14 @@ epoxy-ml-evidence-map/
 `-- public_pdfs/
     |-- README.md
     |-- manifest.json
-    `-- EML-*.pdf     (34 individually reviewed files)
+    `-- EML-*.pdf     (42 individually reviewed files)
 ```
 
-- `Evidence table`: one row per study, with 17 descriptive evidence fields followed by 9 controlled coding fields.
+- `Evidence table`: one row per study, with 17 descriptive evidence fields, 9 controlled coding fields, and 4 PDF-management fields.
 - `Coding guide`: coding rules and selected model-family and validation-hierarchy summaries.
 - Both worksheets above are in the main `evidence.xlsx` file. The `docs/` and `data/` directories contain only the companion literature-access index, not alternative versions of the evidence table.
 - [Full-text access index](docs/full_text_access.md): study identifiers, citations, source links, and access labels from the separate author-supplied access workbook, with a [machine-readable JSON version](data/full_text_access.json). This supplements access information only; it does not replace or recode `evidence.xlsx`.
-- [Licensed PDF collection](public_pdfs/README.md): 34 individually reviewed article files, with attribution, license links, evidence locations, and SHA-256 checksums in [the manifest](public_pdfs/manifest.json). Public reading access alone is not treated as redistribution permission. The remaining candidate files are withheld for the reasons recorded there; unreviewed local archives and PDFs remain excluded by explicit Git ignore rules.
+- [Licensed PDF collection](public_pdfs/README.md): 42 individually reviewed article files, with attribution, license links, evidence locations, and SHA-256 checksums in [the manifest](public_pdfs/manifest.json). This includes 8 noncommercial-license files following the author's confirmation of noncommercial academic use. Public reading access alone is not treated as redistribution permission. The remaining 15 public-access candidate files are not uploaded for the reasons recorded there; another 64 records lack confirmed public access in the source table. Unreviewed local archives and PDFs remain excluded by explicit Git ignore rules.
 
 ## Literature search and selection status
 
@@ -66,13 +66,13 @@ Before describing the search as reproducible, provide the complete executed quer
 
 The four application groups above describe the review's scope; **there is no separate task-group column** in the workbook. Relevant records can instead be located through `Epoxy system`, `Prediction target`, `Material representation`, and `Model type`.
 
-There is no separate `Study ID`, publication-type, DOI/link, full-text-status, or notes column. Citation details and DOI strings are embedded in `Citation`. The current table contains 119 distinct DOI strings after case normalization and removal of DOI URL prefixes, and two records marked `DOI: NR`: Sunder et al. (2025), on processability and flame retardancy, and Theim et al. (2021), on nano-reinforced epoxy surfaces. No identical citation strings or repeated normalized DOI strings were found. This check does not exclude different publications reporting overlapping datasets or duplicate publications under different metadata.
+There is no separate `Study ID`, publication-type, or DOI column. Citation details and DOI strings are embedded in `Citation`. The appended columns separately record full-text access, repository PDF status, PDF links, and upload notes; they are not scientific evidence coding. The current table contains 119 distinct DOI strings after case normalization and removal of DOI URL prefixes, and two records marked `DOI: NR`: Sunder et al. (2025), on processability and flame retardancy, and Theim et al. (2021), on nano-reinforced epoxy surfaces. No identical citation strings or repeated normalized DOI strings were found. This check does not exclude different publications reporting overlapping datasets or duplicate publications under different metadata.
 
-Use the DOI, or the complete citation when no DOI is available, to identify a study. Spreadsheet row numbers are version-specific locators, not stable study identifiers. The separate [access index](docs/full_text_access.md) supplies EML identifiers and source links, including a Zenodo link for Sunder et al. and a proceedings DOI for Theim et al.; these additions have not been written back into the unchanged evidence workbook. Neither workbook establishes redistribution permission for every local PDF.
+Use the DOI, or the complete citation when no DOI is available, to identify a study. Spreadsheet row numbers are version-specific locators, not stable study identifiers. The separate [access index](docs/full_text_access.md) supplies EML identifiers and source links, including a Zenodo link for Sunder et al. and a proceedings DOI for Theim et al.; these citation additions have not been written back into the original evidence fields. PDF-management fields were matched by citation and DOI, with the documented proceedings metadata update and one title-formatting difference checked separately. Neither source workbook establishes redistribution permission for every local PDF; the included files underwent a separate license review.
 
 ## Spreadsheet fields
 
-The names below match the 26 headers in `Evidence table`, in column order.
+The names below match the 30 headers in `Evidence table`, in column order. Columns A-Z are the original evidence fields; AA-AD manage access and repository uploads.
 
 | Column | Field | Description |
 |---|---|---|
@@ -102,6 +102,16 @@ The names below match the 26 headers in `Evidence table`, in column order.
 | X | `Formal UQ` | Controlled formal uncertainty-quantification flag |
 | Y | `Public data` | Controlled public-data flag |
 | Z | `Public code` | Controlled public-code flag |
+| AA | `Full-text access status` | Original access label from the supplied access workbook, not a redistribution decision |
+| AB | `Repository PDF status` | `Uploaded`, `Not uploaded - review required`, or `Not uploaded - public access unconfirmed` |
+| AC | `Repository PDF link` | GitHub link to an included PDF; blank for files not uploaded |
+| AD | `PDF license / Upload note` | License and conditions for included files, or the reason a local file is not uploaded |
+
+### PDF upload status
+
+Filter column AB to distinguish **42 uploaded PDFs**, **15 not uploaded pending review**, and **64 not uploaded because public access is unconfirmed in the source table**. The 15 pending-review files are EML-010, EML-026, EML-054, EML-056, EML-063, EML-070, EML-072, EML-073, EML-076, EML-081, EML-087, EML-099, EML-115, EML-116, and EML-117. Reasons include missing or conflicting license details, a different publicly accessible version, and personal annotations. Noncommercial intent alone does not resolve those issues. Column AD records the specific reason for each file.
+
+These upload statuses must not be counted as the `Public data` or `Public code` research flags. The collection includes 33 CC BY 4.0, 1 CC BY-SA 4.0, 2 CC BY-NC 4.0, and 6 CC BY-NC-ND 4.0 files. Each PDF retains its own license and notices; the noncommercial files are provided for noncommercial academic use, without modifying their contents.
 
 The first 17 fields cover the information categories requested for a study-level evidence table. Presence of a field does not imply complete extraction: for example, 83 of 121 entries in column F are exactly `Not reported in the current extraction`. Dataset-size fields are mixed text rather than consistently numeric variables; do not sum them without study-specific interpretation, and do not equate measurement records with independent formulations, specimens, or batches.
 
@@ -174,7 +184,7 @@ The full-corpus denominator includes all 121 studies and retains unknown and not
 
 ## Interpretation limits and outstanding checks
 
-The workbook was preserved unchanged. The following issues cannot be resolved by relabelling the README alone:
+The original scientific evidence fields and `Coding guide` were preserved unchanged; only PDF-management fields were appended. The following issues cannot be resolved by relabelling the README alone:
 
 1. **External-validation definitions and assignments need reconciliation.** All eight controlled external-validation positives are Tier 4B, and all 25 prospective positives are coded external `No`. However, descriptive entries such as Jafari et al. (2026), row 2, explicitly state external and prospective validation, while column U says `No`. Thus 8/121 is the frequency of the stored external flag, not an established incidence of every form of independent validation. Confirm whether exclusivity was intentional and document a consistent rule before making a scientific claim.
 2. **Simulation validation is not necessarily experimental verification.** For example, Giuntoli et al. (2021), row 115, and Shafe et al. (2024), row 116, are coded external `Yes`, while the descriptive fields identify simulation-based validation and no new experiments. In addition, the prospective coding rule allows simulated candidates, whereas the Tier 5 label says experimental validation. These distinctions require article-level adjudication rather than treating all external/prospective flags as laboratory evidence.
