@@ -1,6 +1,16 @@
 # Epoxy-ML Evidence Map
 
-Repository: [JingSu0627/epoxy-ml-evidence-map](https://github.com/JingSu0627/epoxy-ml-evidence-map).
+## Main Evidence Table
+
+**[Download evidence.xlsx (Excel)](https://github.com/JingSu0627/epoxy-ml-evidence-map/raw/refs/heads/main/evidence.xlsx)**
+
+**121 studies | 26 evidence fields | Study-level evidence and coding guide**
+
+This is the primary dataset for the review. Start here for study details, model classifications, validation evidence, and data/code availability.
+
+[View the workbook on GitHub](evidence.xlsx) | [Browse literature access links](docs/full_text_access.md)
+
+## Overview
 
 This repository provides a study-level evidence table supporting a review of machine learning for epoxy materials, including property prediction, state assessment, formulation and process optimization, and simulation acceleration.
 
@@ -22,6 +32,7 @@ epoxy-ml-evidence-map/
 
 - `Evidence table`: one row per study, with 17 descriptive evidence fields followed by 9 controlled coding fields.
 - `Coding guide`: coding rules and selected model-family and validation-hierarchy summaries.
+- Both worksheets above are in the main `evidence.xlsx` file. The `docs/` and `data/` directories contain only the companion literature-access index, not alternative versions of the evidence table.
 - [Full-text access index](docs/full_text_access.md): study identifiers, citations, source links, and access labels from the separate author-supplied access workbook, with a [machine-readable JSON version](data/full_text_access.json). This supplements access information only; it does not replace or recode `evidence.xlsx`.
 - `public_pdfs/`: a redistribution notice only; no article PDFs are supplied. Public reading access does not establish redistribution permission. Unreviewed local full-text archives and PDFs are excluded from Git by explicit ignore rules.
 
