@@ -17,11 +17,11 @@ Study IDs and citation DOIs were matched against the local reference index. For 
 - `Publicly accessible` means the supplied table records a publicly readable version, not that the local publisher PDF can be redistributed.
 - `Not publicly accessible` means no public version is confirmed by the supplied table; it is not a permanent claim about availability.
 - Links are transcribed from the source table and may resolve to DOI landing pages, repositories, or preprints rather than direct PDF downloads. They were not rechecked during this packaging step.
-- EML-027 has a source note reporting CC BY-SA 4.0 for Zenodo record `10.5281/zenodo.18597540`; the license coverage of the local file has not been verified.
+- EML-027 has a source note reporting CC BY-SA 4.0 for Zenodo record `10.5281/zenodo.18597540`; the local file was subsequently matched by MD5 to the licensed Zenodo download; see the PDF manifest.
 - EML-063, EML-070, EML-073, EML-076, and EML-099 have source notes referring to bronze open access, which does not by itself establish redistribution permission. EML-073 also has conflicting access metadata in the source notes.
 - EML-081 links to an arXiv preprint. Availability of that version does not establish permission for a publisher-formatted PDF.
 - The source supplies a proceedings DOI for EML-056 (`10.12783/asc36/35815`) and a Zenodo link for EML-027. These additions are not written back into the evidence workbook.
-- No third-party PDFs are included. Repository-wide reuse licensing, if later adopted, must not be treated as a license for the cited publications.
+- Reviewed PDF copies are available in the [licensed PDF collection](../public_pdfs/README.md), subject to each file's license. The collection does not cover all 57 public-access labels; see its manifest for withheld files.
 
 ## Reported publicly accessible (57 studies)
 
@@ -153,3 +153,7 @@ Study IDs and citation DOIs were matched against the local reference index. For 
 | EML-118 | Hu et al. (2022). Machine-Learning-Assisted Design of Highly Tough Thermosetting Polymers. ACS Applied Materials & Interfaces. DOI: https://doi.org/10.1021/acsami.2c14290 | <https://doi.org/10.1021/acsami.2c14290> |
 | EML-119 | Qiu et al. (2022). Highly accurate prediction of viscosity of epoxy resin and diluent at various temperatures utilizing machine learning. Polymer, 256, 125216. DOI: https://doi.org/10.1016/j.polymer.2022.125216 | <https://doi.org/10.1016/j.polymer.2022.125216> |
 | EML-120 | Liu et al. (2022). Performance optimization of shape memory epoxy polymers based on machine learning. Polymers for Advanced Technologies, 33(4), 1222-1232. DOI: https://doi.org/10.1002/pat.5595 | <https://doi.org/10.1002/pat.5595> |
+
+## Repository PDF copies
+
+The [PDF collection](../public_pdfs/README.md) provides direct downloads, attribution, license links, and file checksums for the included subset. Original access labels above are unchanged; a public-access label alone does not authorize redistributing a local PDF.

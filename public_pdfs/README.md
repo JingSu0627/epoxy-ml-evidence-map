@@ -1,17 +1,86 @@
-# Full-text redistribution
+# Licensed article PDFs
 
-No third-party article PDFs are distributed in this repository.
+This directory contains **34 article PDFs** selected from the 57 publicly accessible records in the supplied access table. **23 local files are withheld** for the reasons listed below.
 
-Use the [full-text access index](../docs/full_text_access.md) to locate publisher,
-repository, or preprint links. Its access labels are transcribed from the supplied
-access table; they do not establish a license to redistribute a local PDF.
+[Main evidence table](../evidence.xlsx) | [Complete access index](../docs/full_text_access.md) | [License and checksum manifest](manifest.json)
 
-Before adding any article file, verify permission for the exact version, retain
-required attribution and notices, record the license and source URL, and review
-any third-party material exclusions. Access to a subscription PDF, an open data
-repository, or a freely readable article is not by itself redistribution consent.
+## Conditions and provenance
 
-The Git ignore rules currently exclude every file in this directory except this
-README. Adding a licensed PDF requires an explicit review and an update to those
-rules. A future license for this evidence map must not be represented as covering
-third-party publications.
+- Attribution: credit the original authors and publications listed below and within each PDF, retain their copyright and license notices, and link to the stated license and source.
+- PDFs are byte-identical copies of the inspected local files. Only filenames were shortened to Study IDs. No pages, figures, notices, or contents were edited.
+- Each article retains its own license. This collection does not relicense third-party work or override figure-specific credit lines and exclusions. Follow the license of each file rather than assuming a repository-wide license applies.
+- CC BY permits reuse with attribution; CC BY-SA additionally requires share-alike licensing of adaptations. Where CC BY-NC or CC BY-NC-ND is listed, use is restricted to noncommercial purposes; ND also prohibits distributing adaptations.
+- This is an academic literature collection, not an endorsement of the papers' findings or a substitute for checking the original source and any corrections or retractions.
+- The 2026-09-24 check used article-specific PDF license statements and embedded license links. For EML-027, the official Zenodo CC BY-SA 4.0 record was checked and its downloadable-file checksum exactly matched the local PDF.
+- Personal markup annotations, ambiguous license details, generic publisher footers, and public access to a different version were not accepted as sufficient grounds to publish the affected local files.
+
+## Included files
+
+| PDF | Citation and source | License | Evidence |
+|---|---|---|---|
+| [EML-001](EML-001.pdf) | Jafari et al. (2026). Designing flame retardants for epoxy resins with generative AI for preventing battery thermal runaway propagation. Journal of Materials Science & Technology. DOI: https://doi.org/10.1016/j.jmst.2026.03.044 [Source](<https://doi.org/10.1016/j.jmst.2026.03.044>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-006](EML-006.pdf) | Abdellah et al. (2026). Data-Driven Design of Epoxy–Granite Machine Foundations: Bayesian Optimization for Enhanced Compressive Strength and Vibration Damping. Polymers. DOI: https://doi.org/10.3390/polym18040532 [Source](<https://doi.org/10.3390/polym18040532>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-008](EML-008.pdf) | Pastukh et al. (2026). Data-Driven Design of Epoxy Composites: Heat Resistance Prediction Using Machine Learning Algorithms. Advances in Materials Science and Engineering. DOI: https://doi.org/10.1155/amse/6102430 [Source](<https://doi.org/10.1155/amse/6102430>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-011](EML-011.pdf) | Krebs et al. (2025). Bayesian Optimization of flame-retardant performance in a high-Tg epoxy resin system. Computational Materials Science. DOI: https://doi.org/10.1016/j.commatsci.2025.114210 [Source](<https://doi.org/10.1016/j.commatsci.2025.114210>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-013](EML-013.pdf) | Baral et al. (2025). Prediction of mechanical properties of carbon fiber/epoxy composite modified by nanoparticles using multiple explainable machine learning algorithms. Materials & Design. DOI: https://doi.org/10.1016/j.matdes.2025.114537 [Source](<https://doi.org/10.1016/j.matdes.2025.114537>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-016](EML-016.pdf) | Jayasinghe et al. (2025). AI-powered prediction of friction and wear in functionalized Epoxy-MWCNT composites. Wear. DOI: https://doi.org/10.1016/j.wear.2025.206333 [Source](<https://doi.org/10.1016/j.wear.2025.206333>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-018](EML-018.pdf) | Bahtiri et al. (2024). A thermodynamically consistent physics-informed deep learning material model for short fiber/polymer nanocomposites. Computer Methods in Applied Mechanics and Engineering. DOI: https://doi.org/10.1016/j.cma.2024.117038 [Source](<https://doi.org/10.1016/j.cma.2024.117038>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-023](EML-023.pdf) | Francisco M. Monticeli et al. (2022). Prediction of Bending Properties for 3D-Printed Carbon Fibre/Epoxy Composites with Several Processing Parameters Using ANN and Statistical Methods. Polymers. DOI: https://doi.org/10.3390/polym14173668 [Source](<https://doi.org/10.3390/polym14173668>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-025](EML-025.pdf) | Doblies et al. (2019). Prediction of Thermal Exposure and Mechanical Behavior of Epoxy Resin using Artificial Neural Networks and Fourier Transform Infrared Spectroscopy. Polymers. DOI: https://doi.org/10.3390/polym11020363 [Source](<https://doi.org/10.3390/polym11020363>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 16 |
+| [EML-027](EML-027.pdf) | Sruthi Sunder et al. (2025). Systematically adapting processability and flame retardancy of epoxy glass fiber reinforced composites for railway applications. 24th International Conference on Composite Materials, Baltimore, 4–8 Aug 2025. DOI: NR [Source](<https://doi.org/10.5281/zenodo.18597540>) | [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) | Zenodo record + matching MD5 |
+| [EML-028](EML-028.pdf) | K. Aghabalaei Baghaei et al. (2024). Artificial neural network prediction of transverse modulus in humid conditions for randomly distributed unidirectional fibre reinforced composites: A micromechanics approach. Composite Structures. DOI: https://doi.org/10.1016/j.compstruct.2024.118073 [Source](<https://doi.org/10.1016/j.compstruct.2024.118073>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-029](EML-029.pdf) | Louhichi et al. (2026). Methods to optimize tribological properties of pineapple leaf fiber epoxy composites. Industrial Crops & Products. DOI: https://doi.org/10.1016/j.indcrop.2026.122865 [Source](<https://doi.org/10.1016/j.indcrop.2026.122865>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-037](EML-037.pdf) | Gowda et al. (2026). Sustainable development and ANN-based prediction of bio-waste-filled flax–pineapple–epoxy hybrid composites for enhanced mechanical performance. Scientific Reports. DOI: https://doi.org/10.1038/s41598-026-37015-x [Source](<https://doi.org/10.1038/s41598-026-37015-x>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 20 |
+| [EML-039](EML-039.pdf) | Shettar et al. (2025). Experimental Investigation on Mechanical Properties of Glass Fiber–Nanoclay–Epoxy Composites Under Water-Soaking: A Comparative Study Using RSM and ANN. Journal of Composites Science. DOI: https://doi.org/10.3390/jcs9040195 [Source](<https://doi.org/10.3390/jcs9040195>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-041](EML-041.pdf) | Prashanth et al. (2025). Development of Sustainable Okra Fiber-Nano-SiO₂-reinforced Epoxy Composites: Mechanical Characterization and Machine Learning-based Prediction. Journal of Environmental Nanotechnology. DOI: https://doi.org/10.13074/jent.2025.06.2511437 [Source](<https://doi.org/10.13074/jent.2025.06.2511437>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 14 |
+| [EML-048](EML-048.pdf) | Gazo Hanna et al. (2023). Exploring Gel-Point Identification in Epoxy Resin Using Rheology and Unsupervised Learning. Gels. DOI: https://doi.org/10.3390/gels9100828 [Source](<https://doi.org/10.3390/gels9100828>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-049](EML-049.pdf) | Naik et al. (2023). Statistical and Artificial Neural Network Coupled Technique for Prediction of Tribo-Performance in Amine-Cured Bio-Based Epoxy/MMT Nanocomposites. Journal of Composites Science. DOI: https://doi.org/10.3390/jcs7090372 [Source](<https://doi.org/10.3390/jcs7090372>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-050](EML-050.pdf) | Phunpeng et al. (2023). The Flexural Strength Prediction of Carbon Fiber/Epoxy Composite Using Artificial Neural Network Approach. Materials. DOI: https://doi.org/10.3390/ma16155301 [Source](<https://doi.org/10.3390/ma16155301>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-052](EML-052.pdf) | Natrayan et al. (2023). Optimization of Filler Content and Size on Mechanical Performance of Graphene/Hemp/Epoxy-Based Hybrid Composites using Taguchi with ANN Technique. Journal of Nanomaterials. DOI: https://doi.org/10.1155/2023/8235077 [Source](<https://doi.org/10.1155/2023/8235077>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-053](EML-053.pdf) | Kosicka et al. (2022). Prediction of Selected Mechanical Properties of Polymer Composites with Alumina Modifiers. Materials. DOI: https://doi.org/10.3390/ma15030882 [Source](<https://doi.org/10.3390/ma15030882>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-057](EML-057.pdf) | O. Pastukh et al. (2026). Application of Ensemble Machine Learning Algorithms for Modeling the Thermomechanical Properties of Nano-Filled Epoxy Composites. Journal of Nano- and Electronic Physics. DOI: https://doi.org/10.21272/jnep.18(1).01028 [Source](<https://doi.org/10.21272/jnep.18(1).01028>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-069](EML-069.pdf) | Choudhary et al. (2022). Development, characterization, and parametric analysis of dry sliding wear behavior of epoxy-short betel nut fiber composite using response surface method and neural computation. Polymers and Polymer Composites. DOI: https://doi.org/10.1177/09673911211066722 [Source](<https://doi.org/10.1177/09673911211066722>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-075](EML-075.pdf) | Hariharan et al. (2026). Data-Driven Prediction and Optimization of Mechanical Properties and Vibration Damping in Cast Iron–Granite-Epoxy Hybrid Composites. Computers, Materials & Continua. DOI: https://doi.org/10.32604/cmc.2025.073772 [Source](<https://doi.org/10.32604/cmc.2025.073772>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-079](EML-079.pdf) | Mohit et al. (2025). Multi-criteria and CNN analysis of Al2O3/TiO2/egg shell/ATH ceramic fillers in glass fiber-epoxy composites. Journal of Materials Research and Technology. DOI: https://doi.org/10.1016/j.jmrt.2025.03.190 [Source](<https://doi.org/10.1016/j.jmrt.2025.03.190>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-086](EML-086.pdf) | Liu et al., 2024. Machine learning assisted discovery of high-efficiency self-healing epoxy coating for corrosion protection. npj Materials Degradation, 8, 11. DOI/URL: https://doi.org/10.1038/s41529-024-00427-z [Source](<https://doi.org/10.1038/s41529-024-00427-z>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 11 |
+| [EML-096](EML-096.pdf) | Navas-Pinto et al., 2026. Machine Learning Approach for Mechanical Property Prediction of a Bio-Epoxy and Glass Fiber Composite Reinforced with Titanium Dioxide Nanoparticles. Journal of Composites Science, 10, 123. DOI/URL: https://doi.org/10.3390/jcs10030123 [Source](<https://doi.org/10.3390/jcs10030123>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-103](EML-103.pdf) | Yasniy et al. (2024). Machine learning methods as applied to modelling thermal conductivity of epoxy-based composites with different fillers for aircraft. Aviation. DOI: https://doi.org/10.3846/aviation.2024.21472 [Source](<https://doi.org/10.3846/aviation.2024.21472>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-107](EML-107.pdf) | Meier et al. (2022). Modeling glass transition temperatures of epoxy systems: a machine learning study. Journal of Materials Science. DOI: https://doi.org/10.1007/s10853-022-07372-9 [Source](<https://doi.org/10.1007/s10853-022-07372-9>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 10 |
+| [EML-109](EML-109.pdf) | Albuquerque et al. (2024). Designing formulations of bio-based, multicomponent epoxy resin systems via machine learning. MRS Bulletin. DOI: https://doi.org/10.1557/s43577-023-00504-9 [Source](<https://doi.org/10.1557/s43577-023-00504-9>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 12 |
+| [EML-110](EML-110.pdf) | Rothenhäusler et al. (2024). Strategies for the fast optimization of the glass transition temperature of sustainable epoxy resin systems via machine learning. Journal of Applied Polymer Science. DOI: https://doi.org/10.1002/app.55422 [Source](<https://doi.org/10.1002/app.55422>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-111](EML-111.pdf) | Kraisornkachit et al. (2024). Multi-Objective Optimization of Adhesive Joint Strength and Elastic Modulus of Adhesive Epoxy with Active Learning. Materials. DOI: https://doi.org/10.3390/ma17122866 [Source](<https://doi.org/10.3390/ma17122866>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 1 |
+| [EML-113](EML-113.pdf) | Pruksawan et al. (2019). Prediction and optimization of epoxy adhesive strength from a small dataset through active learning. Science and Technology of Advanced Materials. DOI: https://doi.org/10.1080/14686996.2019.1673670 [Source](<https://doi.org/10.1080/14686996.2019.1673670>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 2 |
+| [EML-114](EML-114.pdf) | Giuntoli et al. (2021). Systematic coarse-graining of epoxy resins with machine learning-informed energy renormalization. npj Computational Materials. DOI: https://doi.org/10.1038/s41524-021-00634-1 [Source](<https://doi.org/10.1038/s41524-021-00634-1>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 12 |
+| [EML-121](EML-121.pdf) | Sindu and Hamaekers (2025). Feature-based prediction of properties of cross-linked epoxy polymers by molecular dynamics and machine learning techniques. Modelling and Simulation in Materials Science and Engineering, 33, 065010. DOI: https://doi.org/10.1088/1361-651X/adf56c [Source](<https://doi.org/10.1088/1361-651X/adf56c>) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | PDF page 2 |
+
+## Withheld local files
+
+The underlying articles may still be readable at the source links in the access index. Withholding here is a decision about these particular local copies, not a claim that the articles can never be shared.
+
+| Study ID | Reason |
+|---|---|
+| EML-010 | No article-specific redistribution license identified in the local PDF. |
+| EML-019 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-026 | Conflicting license details: visible text says CC BY-NC; its link targets CC BY-NC-ND 4.0. Withheld pending clarification. |
+| EML-040 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-046 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-054 | The source table links a repository copy; redistribution permission for this local publisher PDF was not established. |
+| EML-056 | No article-specific redistribution license identified in the local conference manuscript. |
+| EML-059 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-063 | Generic Wiley footer is not an article-specific open license; source table reports bronze OA. |
+| EML-064 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-067 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-070 | No article-specific redistribution license identified; source table reports bronze OA. |
+| EML-072 | No article-specific redistribution license identified in the local PDF. |
+| EML-073 | No article-specific redistribution license identified; source access metadata is conflicting. |
+| EML-076 | Generic Wiley footer is not an article-specific open license; source table reports bronze OA. |
+| EML-080 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-081 | Local publisher PDF states All rights reserved; the source table links a different preprint version. |
+| EML-087 | Local file contains personal markup annotations; a clean publisher version is required before sharing under CC BY-NC-ND. |
+| EML-099 | Generic Wiley footer is not an article-specific open license; source table reports bronze OA. |
+| EML-105 | Noncommercial license identified; awaiting confirmation of noncommercial repository use. |
+| EML-115 | Repository reading access does not establish permission to redistribute this local publisher PDF. |
+| EML-116 | Local file contains personal markup annotations; withheld to avoid publishing private annotation metadata. |
+| EML-117 | Local file contains personal markup annotations; withheld to avoid publishing private annotation metadata. |
+
+Unreviewed PDFs remain excluded by Git ignore rules. Additions require an explicit per-file review and allowlist entry.

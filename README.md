@@ -8,7 +8,7 @@
 
 This is the primary dataset for the review. Start here for study details, model classifications, validation evidence, and data/code availability.
 
-[View the workbook on GitHub](evidence.xlsx) | [Browse literature access links](docs/full_text_access.md)
+[View the workbook on GitHub](evidence.xlsx) | [Browse literature access links](docs/full_text_access.md) | [Licensed PDFs (34)](public_pdfs/README.md)
 
 ## Overview
 
@@ -27,14 +27,16 @@ epoxy-ml-evidence-map/
 |-- data/
 |   `-- full_text_access.json
 `-- public_pdfs/
-    `-- README.md
+    |-- README.md
+    |-- manifest.json
+    `-- EML-*.pdf     (34 individually reviewed files)
 ```
 
 - `Evidence table`: one row per study, with 17 descriptive evidence fields followed by 9 controlled coding fields.
 - `Coding guide`: coding rules and selected model-family and validation-hierarchy summaries.
 - Both worksheets above are in the main `evidence.xlsx` file. The `docs/` and `data/` directories contain only the companion literature-access index, not alternative versions of the evidence table.
 - [Full-text access index](docs/full_text_access.md): study identifiers, citations, source links, and access labels from the separate author-supplied access workbook, with a [machine-readable JSON version](data/full_text_access.json). This supplements access information only; it does not replace or recode `evidence.xlsx`.
-- `public_pdfs/`: a redistribution notice only; no article PDFs are supplied. Public reading access does not establish redistribution permission. Unreviewed local full-text archives and PDFs are excluded from Git by explicit ignore rules.
+- [Licensed PDF collection](public_pdfs/README.md): 34 individually reviewed article files, with attribution, license links, evidence locations, and SHA-256 checksums in [the manifest](public_pdfs/manifest.json). Public reading access alone is not treated as redistribution permission. The remaining candidate files are withheld for the reasons recorded there; unreviewed local archives and PDFs remain excluded by explicit Git ignore rules.
 
 ## Literature search and selection status
 

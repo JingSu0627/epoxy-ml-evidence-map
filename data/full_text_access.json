@@ -1,5 +1,5 @@
 {
-  "schema_version": "1.0",
+  "schema_version": "1.1",
   "prepared_on": "2026-09-24",
   "source": {
     "workbook": "literature_index_public_access.xlsx",
@@ -18,7 +18,7 @@
     "Public reading access does not establish PDF redistribution permission.",
     "A public author manuscript or preprint may differ from a publisher PDF.",
     "The source notes report conflicting access metadata for EML-073.",
-    "No third-party article PDFs are distributed in this repository."
+    "Only 34 reviewed local PDFs are included, subject to their individual licenses; see public_pdfs/manifest.json."
   ],
   "records": [
     {
@@ -28,7 +28,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-001.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-002",
@@ -37,7 +40,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-003",
@@ -46,7 +52,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-004",
@@ -55,7 +64,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-005",
@@ -64,7 +76,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-006",
@@ -73,7 +88,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-006.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-007",
@@ -82,7 +100,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-008",
@@ -91,7 +112,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-008.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-009",
@@ -100,7 +124,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-010",
@@ -109,7 +136,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: No article-specific redistribution license identified in the local PDF.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-011",
@@ -118,7 +148,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-011.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-012",
@@ -127,7 +160,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-013",
@@ -136,7 +172,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-013.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-014",
@@ -145,7 +184,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-015",
@@ -154,7 +196,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-016",
@@ -163,7 +208,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-016.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-017",
@@ -172,7 +220,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-018",
@@ -181,7 +232,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-018.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-019",
@@ -190,7 +244,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC-ND 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "study_id": "EML-020",
@@ -199,7 +256,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-021",
@@ -208,7 +268,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-022",
@@ -217,7 +280,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "Recheck: Elsevier API reports openaccess=0/openArchiveArticle=false; LSU repository record has no downloadable file.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-023",
@@ -226,7 +292,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-023.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-024",
@@ -235,7 +304,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "Recheck: Elsevier API reports openaccess=0/openArchiveArticle=false; LSU repository record has no downloadable file.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-025",
@@ -244,7 +316,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-025.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-026",
@@ -253,7 +328,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Conflicting license details: visible text says CC BY-NC; its link targets CC BY-NC-ND 4.0. Withheld pending clarification.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-027",
@@ -262,7 +340,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: Zenodo record 10.5281/zenodo.18597540 provides the conference PDF and states CC BY-SA 4.0 open access.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": "CC BY-SA 4.0",
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-027.pdf",
+      "pdf_license": "CC BY-SA 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-sa/4.0/"
     },
     {
       "study_id": "EML-028",
@@ -271,7 +352,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-028.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-029",
@@ -280,7 +364,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-029.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-030",
@@ -289,7 +376,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-031",
@@ -298,7 +388,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-032",
@@ -307,7 +400,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-033",
@@ -316,7 +412,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-034",
@@ -325,7 +424,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-035",
@@ -334,7 +436,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-036",
@@ -343,7 +448,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-037",
@@ -352,7 +460,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-037.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-038",
@@ -361,7 +472,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-039",
@@ -370,7 +484,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-039.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-040",
@@ -379,7 +496,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC-ND 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "study_id": "EML-041",
@@ -388,7 +508,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-041.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-042",
@@ -397,7 +520,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-043",
@@ -406,7 +532,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-044",
@@ -415,7 +544,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-045",
@@ -424,7 +556,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-046",
@@ -433,7 +568,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC-ND 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "study_id": "EML-047",
@@ -442,7 +580,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-048",
@@ -451,7 +592,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-048.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-049",
@@ -460,7 +604,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-049.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-050",
@@ -469,7 +616,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-050.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-051",
@@ -478,7 +628,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-052",
@@ -487,7 +640,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-052.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-053",
@@ -496,7 +652,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-053.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-054",
@@ -505,7 +664,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: The source table links a repository copy; redistribution permission for this local publisher PDF was not established.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-055",
@@ -514,7 +676,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-056",
@@ -523,7 +688,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: No article-specific redistribution license identified in the local conference manuscript.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-057",
@@ -532,7 +700,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-057.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-058",
@@ -541,7 +712,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-059",
@@ -550,7 +724,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "study_id": "EML-060",
@@ -559,7 +736,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-061",
@@ -568,7 +748,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-062",
@@ -577,7 +760,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-063",
@@ -586,7 +772,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Wiley access is protected by an anti-bot page in this environment.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Generic Wiley footer is not an article-specific open license; source table reports bronze OA.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-064",
@@ -595,7 +784,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC-ND 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "study_id": "EML-065",
@@ -604,7 +796,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-066",
@@ -613,7 +808,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-067",
@@ -622,7 +820,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: official journal PDF was retrieved from jresm.org.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc/4.0/"
     },
     {
       "study_id": "EML-068",
@@ -631,7 +832,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-069",
@@ -640,7 +844,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-069.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-070",
@@ -649,7 +856,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Springer PDF access is protected by a browser challenge here.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: No article-specific redistribution license identified; source table reports bronze OA.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-071",
@@ -658,7 +868,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-072",
@@ -667,7 +880,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: No article-specific redistribution license identified in the local PDF.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-073",
@@ -676,7 +892,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: OpenAlex lists IOP publishedVersion as bronze OA and Crossref exposes publisher PDF links; Semantic Scholar reports closed, so manual access should be rechecked.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: No article-specific redistribution license identified; source access metadata is conflicting.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-074",
@@ -685,7 +904,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-075",
@@ -694,7 +916,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-075.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-076",
@@ -703,7 +928,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Wiley access is protected by an anti-bot page in this environment.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Generic Wiley footer is not an article-specific open license; source table reports bronze OA.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-077",
@@ -712,7 +940,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-078",
@@ -721,7 +952,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-079",
@@ -730,7 +964,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-079.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-080",
@@ -739,7 +976,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC-ND 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "study_id": "EML-081",
@@ -748,7 +988,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: arXiv preprint 2004.11968 was retrieved successfully.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Local publisher PDF states All rights reserved; the source table links a different preprint version.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-082",
@@ -757,7 +1000,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-083",
@@ -766,7 +1012,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-084",
@@ -775,7 +1024,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-085",
@@ -784,7 +1036,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-086",
@@ -793,7 +1048,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-086.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-087",
@@ -802,7 +1060,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Local file contains personal markup annotations; a clean publisher version is required before sharing under CC BY-NC-ND.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-088",
@@ -811,7 +1072,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-089",
@@ -820,7 +1084,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-090",
@@ -829,7 +1096,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-091",
@@ -838,7 +1108,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-092",
@@ -847,7 +1120,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-093",
@@ -856,7 +1132,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-094",
@@ -865,7 +1144,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-095",
@@ -874,7 +1156,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-096",
@@ -883,7 +1168,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-096.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-097",
@@ -892,7 +1180,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-098",
@@ -901,7 +1192,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-099",
@@ -910,7 +1204,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "Recheck: OpenAlex lists a publisher-hosted publishedVersion PDF as bronze OA; Wiley access is protected by an anti-bot page in this environment.; Dataset counts not explicitly reported",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Generic Wiley footer is not an article-specific open license; source table reports bronze OA.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-100",
@@ -919,7 +1216,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-101",
@@ -928,7 +1228,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-102",
@@ -937,7 +1240,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-103",
@@ -946,7 +1252,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-103.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-104",
@@ -955,7 +1264,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-105",
@@ -964,7 +1276,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Noncommercial license identified; awaiting confirmation of noncommercial repository use.",
+      "repository_pdf": null,
+      "pdf_license": "CC BY-NC-ND 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by-nc-nd/4.0/"
     },
     {
       "study_id": "EML-106",
@@ -973,7 +1288,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-107",
@@ -982,7 +1300,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-107.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-108",
@@ -991,7 +1312,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-109",
@@ -1000,7 +1324,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-109.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-110",
@@ -1009,7 +1336,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-110.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-111",
@@ -1018,7 +1348,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-111.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-112",
@@ -1027,7 +1360,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-113",
@@ -1036,7 +1372,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-113.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-114",
@@ -1045,7 +1384,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-114.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     },
     {
       "study_id": "EML-115",
@@ -1054,7 +1396,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Repository reading access does not establish permission to redistribute this local publisher PDF.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-116",
@@ -1063,7 +1408,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Local file contains personal markup annotations; withheld to avoid publishing private annotation metadata.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-117",
@@ -1072,7 +1420,10 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Withheld: Local file contains personal markup annotations; withheld to avoid publishing private annotation metadata.",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-118",
@@ -1081,7 +1432,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-119",
@@ -1090,7 +1444,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-120",
@@ -1099,7 +1456,10 @@
       "full_text_status": "Not publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Not reviewed; source table does not confirm public access",
+      "repository_pdf": null,
+      "pdf_license": null,
+      "pdf_license_url": null
     },
     {
       "study_id": "EML-121",
@@ -1108,7 +1468,15 @@
       "full_text_status": "Publicly accessible",
       "access_note": "",
       "license_reported_in_source_notes": null,
-      "pdf_redistribution_clearance": "Not verified"
+      "pdf_redistribution_clearance": "Included subject to stated license conditions",
+      "repository_pdf": "public_pdfs/EML-121.pdf",
+      "pdf_license": "CC BY 4.0",
+      "pdf_license_url": "https://creativecommons.org/licenses/by/4.0/"
     }
-  ]
+  ],
+  "pdf_license_review": {
+    "date": "2026-09-24",
+    "manifest": "public_pdfs/manifest.json",
+    "included_count": 34
+  }
 }
